@@ -10,7 +10,7 @@
 
 ## About
 
-Hello, my name is Roby Thomas. I am currently a 4th year Computer Science major student at the University of Minnesota.
+Hello, my name is Roby Thomas. I am currently a 4th year Computer Science major student at the University of Minnesota. You can find my resume [here](https://github.com/rdt137/rdt137.github.io/files/8454549/Resume.pdf).
 
 ## Projects
 
