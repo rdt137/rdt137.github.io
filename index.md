@@ -19,7 +19,7 @@ Here are some of the interesting projects I've worked on throughout my time as a
 
 #### Modified merge sort using parellel processes
 
-This was a group school assignment where we used parellel processes to more efficiently do merge sort. The modified merge sort splits into multiple ways as specified in the input file. Once split until the leaf nodes, the leaf nodes will then use insertion sort to sort the bottom layer before merging with the other child processes with the same parent. The finished work can be found on [github](https://github.com/rijulm/4061-Fall-2021) under PA 1.
+This was a group school assignment where we used parellel processes to more efficiently do merge sort. The modified merge sort splits into multiple ways as specified in the input file. Once split until the leaf nodes, the leaf nodes will then use insertion sort to sort the bottom layer before merging with the other child processes with the same parent. The finished work can be found on [github](https://github.com/rdt137/4061-Fall-2021-PA1).
 
 #### Pizza Ordering Project
 
